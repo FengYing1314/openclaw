@@ -4,6 +4,13 @@ read_when:
   - 你需要 DG-Lab 插件的安装与配置说明
 summary: DG-Lab 社区插件：通过 WebSocket 控制 DG-Lab（郊狼）V3 设备
 title: DG-Lab 插件
+x-i18n:
+  generated_at: "2026-02-27T23:57:20Z"
+  model: claude-opus-4-6
+  provider: pi
+  source_hash: 7ccb3252ce19ce145d45d2200bd3c512e30c8b8913464baac03622b9cc21fb8f
+  source_path: plugins/dg-lab.md
+  workflow: 15
 ---
 
 # DG-Lab 插件（社区）
